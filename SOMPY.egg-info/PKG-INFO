@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: SOMPY
+Version: 1.1.1
+Summary: Self Organizing Maps Package
+Author: Vahid Moosavi and Sebastian Packmann
+Requires-Dist: numpy>=1.7
+Requires-Dist: scipy>=0.9
+Requires-Dist: scikit-learn>=0.21
+Requires-Dist: numexpr>=2.5
