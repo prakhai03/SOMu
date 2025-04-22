@@ -1,0 +1,13 @@
+setuptools>=69.0.3
+wheel>=0.42.0
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.7
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+minisom>=2.3.1
+plotly>=5.18.0
+python-dotenv>=1.0.0
+pydantic>=2.5.2
+requests>=2.31.0 
